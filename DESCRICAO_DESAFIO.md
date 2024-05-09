@@ -10,7 +10,7 @@ E foi definido que você será essa pessoa que vai entregar essa solução escal
 
 ## Objetivo
 
-O objetivo deste desafio é criar um projeto para provisionar um cluster Kubernetes na AWS usando o Amazon EKS (Elastic Kubernetes Service) de forma automatizada. Após a criação do cluster, você deverá configurar uma pipeline usando GitHub Actions que automatize o processo de criação e manutenção desse cluster Kubernetes. Com o objetivo de suportar a escala de diversos microsserviços da Mr. Fusion Solutions.
+O objetivo deste desafio é criar um projeto para provisionar um cluster Kubernetes na AWS usando o Amazon EKS (Elastic Kubernetes Service) de forma automatizada. Após a criação do cluster, você deverá configurar uma pipeline usando GitHub Actions que automatize o processo de criação e manutenção desse cluster Kubernetes. Com o objetivo de suportar a escala de diversos microsserviços da Mr. Fusion Solutions..
 
 ## Etapas do projeto
 
