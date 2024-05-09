@@ -1,4 +1,4 @@
-aws_region                                 = "ap-southeast-1"
+aws_region                                 = "ap-southeast-2"
 aws_vpc_name                               = "live-vpc"
 aws_vpc_cidr                               = "10.0.0.0/16"
 aws_vpc_azs                                = ["ap-southeast-1", "ap-southeast-2", "ap-northeast-1"]
